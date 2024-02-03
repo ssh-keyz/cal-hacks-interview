@@ -1,0 +1,6 @@
+[submodule "cal-hacks-backend"]
+	path = cal-hacks-backend
+	url = https://github.com/ssh-keyz/cal-hacks-backend
+[submodule "cal-hacks-frontend"]
+	path = cal-hacks-frontend
+	url = https://github.com/ssh-keyz/cal-hacks-frontend
